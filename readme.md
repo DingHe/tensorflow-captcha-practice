@@ -226,3 +226,9 @@ CNN review https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8
 mnist http://yann.lecun.com/exdb/mnist/
 
 numpy http://cs231n.github.io/python-numpy-tutorial/
+
+
+
+验证码识别群625706505
+
+![](img/tensorflow-CNN-share.jpeg)
